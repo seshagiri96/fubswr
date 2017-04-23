@@ -1,4 +1,4 @@
 all:
-  g++ -g -o hello hello.cpp
+	g++ -g -o hello hello.cpp
 test:
-  echo "success!"
+	echo "success!"
