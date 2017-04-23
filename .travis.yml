@@ -3,5 +3,8 @@ language: cpp
 compiler:
   gcc
   
+notifications:
+  email: false
+
 script:
 - make
